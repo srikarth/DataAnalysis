@@ -1,6 +1,6 @@
 ##  WAT
 Just an example of reactive data visualization server done in R
-reactive({}) - caches hash-map input:output, and gives cachces output if encounters same input more than onece (no need to recalulate!).
+reactive({}) - caches hash-map input:output, and gives cachces output if encounters same input more than once (no need to recalulate!).
 
 Server calulates forecast for a stock price and displays this to user.
 
