@@ -6,7 +6,6 @@ reactive({}) - caches hash-map input:output, and gives cachces output if encount
 Server calulates forecast for a stock price and displays this to user.
 
 ## DEMO
-![demoImage](https://raw.githubusercontent.com/syzer/reactiveStock/master/wiki/demo.png)
 ![demoImage2](https://raw.githubusercontent.com/syzer/forecastOfStock/master/wiki/demo.png)
 
 ## HOWTO
