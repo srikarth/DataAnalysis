@@ -19,7 +19,7 @@ go to the R console:
     install.packages('shiny')
 	install.packages('forecast')
     library('shiny')
-    runGitHub('forecastOfStock', 'syzer') 
+   
     
 
 
