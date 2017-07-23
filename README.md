@@ -22,9 +22,7 @@ go to the R console:
     runGitHub('forecastOfStock', 'syzer') 
     
 
-or clone repository:
 
-    git clone git@github.com:syzer/forecastOfStock.git
 
 and in the R console:
     
