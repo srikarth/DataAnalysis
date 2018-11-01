@@ -4,8 +4,8 @@ Reactive data visualization server done in R
 Server calulates forecast for a stock price and displays this to user.
 
 ## DEMO
-![demoImage](https://raw.githubusercontent.com/syzer/reactiveStock/master/wiki/demo.png)
-![demoImage2](https://raw.githubusercontent.com/syzer/forecastOfStock/master/wiki/demo.png)
+![demoImage](https://raw.githubusercontent.com/srikarth/reactiveStock/master/wiki/demo.png)
+![demoImage2](https://raw.githubusercontent.com/srikarth/forecastOfStock/master/wiki/demo.png)
 
 ## HOWTO
 
@@ -17,12 +17,12 @@ go to the R console:
     install.packages('shiny')
 	install.packages('forecast')
     library('shiny')
-    runGitHub('forecastOfStock', 'syzer') 
+    runGitHub('forecastOfStock', 'srikarth') 
     
 
 or clone repository:
 
-    git clone git@github.com:syzer/forecastOfStock.git
+    git clone git@github.com:srikarth/forecastOfStock.git
 
 and in the R console:
     
