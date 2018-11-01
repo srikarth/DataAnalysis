@@ -3,6 +3,8 @@ Reactive data visualization server done in R
 
 Server calulates forecast for a stock price and displays this to user.
 
+data= https://cran.r-project.org/web/packages/quantmod/quantmod.pdf
+
 ## DEMO
 ![demoImage](https://raw.githubusercontent.com/srikarth/reactiveStock/master/wiki/demo.png)
 ![demoImage2](https://raw.githubusercontent.com/srikarth/forecastOfStock/master/wiki/demo.png)
